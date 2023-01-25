@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 29,
+        "Name": "Associate degree",
+        "progCount": 767
+    },
+    {
+        "Id": 33,
+        "Name": "Undergraduate (Bachelor's Degree)",
+        "progCount": 7948
+    },
+    {
+        "Id": 35,
+        "Name": "Graduate (Master's)",
+        "progCount": 3392
+    },
+    {
+        "Id": 58,
+        "Name": "Certificate",
+        "progCount": 1
+    },
+    {
+        "Id": 59,
+        "Name": "Advanced Certificate",
+        "progCount": 4
+    },
+    {
+        "Id": 52,
+        "Name": "Diploma",
+        "progCount": 6
+    },
+    {
+        "Id": 37,
+        "Name": "PhD",
+        "progCount": 190
+    },
+    {
+        "Id": 55,
+        "Name": "EdD",
+        "progCount": 11
+    }
+]

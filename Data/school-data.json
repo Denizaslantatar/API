@@ -1,0 +1,612 @@
+[
+    {
+        "Id": 20431,
+        "Name": "Adelphi University",
+        "SchoolLogo": "aca-sch-ag_20431_15953413875.png"
+    },
+    {
+        "Id": 20204,
+        "Name": "American Collegiate D.C",
+        "SchoolLogo": "aca-sch-ag_20204_15922461435.png"
+    },
+    {
+        "Id": 20057,
+        "Name": "American Collegiate Live ",
+        "SchoolLogo": "aca-sch-ag_20057_15899028421.png"
+    },
+    {
+        "Id": 20203,
+        "Name": "American University",
+        "SchoolLogo": "aca-sch-ag_20203_15922432951.png"
+    },
+    {
+        "Id": 22638,
+        "Name": "Arizona State University Tempe Campus",
+        "SchoolLogo": "aca-sch-ag_0_16329306842.png"
+    },
+    {
+        "Id": 22539,
+        "Name": "Arizona State University West Campus",
+        "SchoolLogo": "aca-sch-ag_0_16312020623.png"
+    },
+    {
+        "Id": 20051,
+        "Name": "Arkansas State University",
+        "SchoolLogo": "aca-sch-ag_0_15898275004.png"
+    },
+    {
+        "Id": 20043,
+        "Name": "Auburn University",
+        "SchoolLogo": "aca-sch-ag_0_15894730389.jpg"
+    },
+    {
+        "Id": 20044,
+        "Name": "Auburn University at Montgomery",
+        "SchoolLogo": "aca-sch-ag_0_15894838266.jpg"
+    },
+    {
+        "Id": 23397,
+        "Name": "Austin College",
+        "SchoolLogo": "aca-sch-ag_0_16466682538.jpg"
+    },
+    {
+        "Id": 24329,
+        "Name": "Barton College",
+        "SchoolLogo": "aca-sch-ag_24329_16704283441.png"
+    },
+    {
+        "Id": 20170,
+        "Name": "Baylor University",
+        "SchoolLogo": "aca-sch-ag_20170_15917166646.png"
+    },
+    {
+        "Id": 24334,
+        "Name": "Belmont University",
+        "SchoolLogo": "aca-sch-ag_24334_16705157327.jpg"
+    },
+    {
+        "Id": 23657,
+        "Name": "Blackburn College",
+        "SchoolLogo": "aca-sch-ag_23657_16572906234.png"
+    },
+    {
+        "Id": 24335,
+        "Name": "Bridgewater College",
+        "SchoolLogo": "aca-sch-ag_24335_16705285858.jpg"
+    },
+    {
+        "Id": 23662,
+        "Name": "Central Methodist University",
+        "SchoolLogo": "aca-sch-ag_23662_16575479502.jpg"
+    },
+    {
+        "Id": 20144,
+        "Name": "Cleveland State University",
+        "SchoolLogo": "aca-sch-ag_20144_15912075818.jpg"
+    },
+    {
+        "Id": 23892,
+        "Name": "College of Marin",
+        "SchoolLogo": "aca-sch-ag_23892_16632707182.png"
+    },
+    {
+        "Id": 20058,
+        "Name": "College of San Mateo",
+        "SchoolLogo": "aca-sch-ag_20058_15899071619.jpg"
+    },
+    {
+        "Id": 20066,
+        "Name": "Colorado State University",
+        "SchoolLogo": "aca-sch-ag_20066_15899963615.png"
+    },
+    {
+        "Id": 24339,
+        "Name": "Cornish College of the Arts",
+        "SchoolLogo": "aca-sch-ag_24339_16716371961.png"
+    },
+    {
+        "Id": 20094,
+        "Name": "DePaul University",
+        "SchoolLogo": "aca-sch-ag_20094_15905106687.png"
+    },
+    {
+        "Id": 20136,
+        "Name": "Drew University",
+        "SchoolLogo": "aca-sch-ag_0_15911237717.gif"
+    },
+    {
+        "Id": 23630,
+        "Name": "Duquesne University",
+        "SchoolLogo": "aca-sch-ag_23630_16564307022.png"
+    },
+    {
+        "Id": 23270,
+        "Name": "East Tennessee State University",
+        "SchoolLogo": "aca-sch-ag_0_16442673527.jpg"
+    },
+    {
+        "Id": 23643,
+        "Name": "Edgewood College",
+        "SchoolLogo": "aca-sch-ag_23643_16570448832.jpg"
+    },
+    {
+        "Id": 23148,
+        "Name": "Eureka College",
+        "SchoolLogo": "aca-sch-ag_0_16413051712.jpg"
+    },
+    {
+        "Id": 23452,
+        "Name": "FAU",
+        "SchoolLogo": "aca-sch-ag_0_16486558077.jpg"
+    },
+    {
+        "Id": 20012,
+        "Name": "FIU",
+        "SchoolLogo": "aca-sch-ag_20012_15889625513.png"
+    },
+    {
+        "Id": 23171,
+        "Name": "Fisher College",
+        "SchoolLogo": "aca-sch-ag_0_16419138228.png"
+    },
+    {
+        "Id": 20009,
+        "Name": "Florida Institute of Technology",
+        "SchoolLogo": "aca-sch-ag_20009_15892070806.png"
+    },
+    {
+        "Id": 20025,
+        "Name": "Full Sail University",
+        "SchoolLogo": "aca-sch-ag_20025_15892967356.jpg"
+    },
+    {
+        "Id": 22534,
+        "Name": "Gannon University",
+        "SchoolLogo": "aca-sch-ag_0_16310476707.png"
+    },
+    {
+        "Id": 20183,
+        "Name": "George Mason University",
+        "SchoolLogo": "aca-sch-ag_20183_15918989088.jpg"
+    },
+    {
+        "Id": 21755,
+        "Name": "Gonzaga University",
+        "SchoolLogo": "aca-sch-ag_21755_16141030894.png"
+    },
+    {
+        "Id": 23232,
+        "Name": "Goucher College",
+        "SchoolLogo": "aca-sch-ag_0_16433946188.png"
+    },
+    {
+        "Id": 20876,
+        "Name": "Hillsborough Community College",
+        "SchoolLogo": "aca-sch-ag_20876_16031323195.png"
+    },
+    {
+        "Id": 22986,
+        "Name": "Hofstra University",
+        "SchoolLogo": "aca-sch-ag_0_16394273595.png"
+    },
+    {
+        "Id": 22912,
+        "Name": "IGlobal University",
+        "SchoolLogo": "aca-sch-ag_0_16377714955.jpg"
+    },
+    {
+        "Id": 20095,
+        "Name": "Illinois State University",
+        "SchoolLogo": "aca-sch-ag_20095_15905222811.jpeg"
+    },
+    {
+        "Id": 22169,
+        "Name": "Indiana Tech University",
+        "SchoolLogo": "aca-sch-ag_22169_16208346131.png"
+    },
+    {
+        "Id": 23926,
+        "Name": "Irvine Valley College",
+        "SchoolLogo": "aca-sch-ag_23926_16638555814.png"
+    },
+    {
+        "Id": 23661,
+        "Name": "Jacksonville University",
+        "SchoolLogo": "aca-sch-ag_23661_16575461147.png"
+    },
+    {
+        "Id": 20666,
+        "Name": "James Madison University",
+        "SchoolLogo": "aca-sch-ag_0_15979488156.png"
+    },
+    {
+        "Id": 23656,
+        "Name": "Johns Hopkins University",
+        "SchoolLogo": "aca-sch-ag_23656_16572889486.png"
+    },
+    {
+        "Id": 23208,
+        "Name": "Kent State University",
+        "SchoolLogo": "aca-sch-ag_0_16427790109.jpg"
+    },
+    {
+        "Id": 23664,
+        "Name": "Lakeland University",
+        "SchoolLogo": "aca-sch-ag_23664_165764686410.png"
+    },
+    {
+        "Id": 20143,
+        "Name": "LIM College",
+        "SchoolLogo": "aca-sch-ag_0_15911985551.jpg"
+    },
+    {
+        "Id": 20674,
+        "Name": "LIU Brooklyn",
+        "SchoolLogo": "aca-sch-ag_0_15982787677.jpg"
+    },
+    {
+        "Id": 23537,
+        "Name": "LIU Post",
+        "SchoolLogo": "aca-sch-ag_23537_16523714270.png"
+    },
+    {
+        "Id": 20168,
+        "Name": "Lipscomb University",
+        "SchoolLogo": "aca-sch-ag_20168_15916458050.png"
+    },
+    {
+        "Id": 20106,
+        "Name": "Louisiana State University",
+        "SchoolLogo": "aca-sch-ag_20106_15906781903.png"
+    },
+    {
+        "Id": 20188,
+        "Name": "Lower Columbia College",
+        "SchoolLogo": "aca-sch-ag_20188_15919809844.png"
+    },
+    {
+        "Id": 24387,
+        "Name": "Lycoming College",
+        "SchoolLogo": "aca-sch-ag_24387_167163986010.png"
+    },
+    {
+        "Id": 20026,
+        "Name": "Lynn University",
+        "SchoolLogo": "aca-sch-ag_0_15893062699.jpg"
+    },
+    {
+        "Id": 23985,
+        "Name": "Marquette University",
+        "SchoolLogo": "aca-sch-ag_23985_16651523818.png"
+    },
+    {
+        "Id": 20205,
+        "Name": "Marshall University",
+        "SchoolLogo": "aca-sch-ag_20205_15922488374.png"
+    },
+    {
+        "Id": 20107,
+        "Name": "Massachusetts College of Pharmacy and Health Sciences",
+        "SchoolLogo": "aca-sch-ag_0_15906912286.png"
+    },
+    {
+        "Id": 23294,
+        "Name": "Middle Tennessee State University",
+        "SchoolLogo": "aca-sch-ag_0_16451269062.jpg"
+    },
+    {
+        "Id": 23032,
+        "Name": "Millenia Atlantic University",
+        "SchoolLogo": "aca-sch-ag_0_16397754275.jpg"
+    },
+    {
+        "Id": 20135,
+        "Name": "Montana State University",
+        "SchoolLogo": "aca-sch-ag_20135_15911127057.jpg"
+    },
+    {
+        "Id": 23178,
+        "Name": "New England College",
+        "SchoolLogo": "aca-sch-ag_0_16420942986.png"
+    },
+    {
+        "Id": 20155,
+        "Name": "Ohio Northern University",
+        "SchoolLogo": "aca-sch-ag_20155_15912991296.jpg"
+    },
+    {
+        "Id": 24388,
+        "Name": "Oklahoma City University",
+        "SchoolLogo": "aca-sch-ag_24388_16717207693.png"
+    },
+    {
+        "Id": 20166,
+        "Name": "Oregon State University",
+        "SchoolLogo": "aca-sch-ag_20166_15913827005.png"
+    },
+    {
+        "Id": 22813,
+        "Name": "Pace University",
+        "SchoolLogo": "aca-sch-ag_22813_16360430281.png"
+    },
+    {
+        "Id": 23665,
+        "Name": "Palm Beach Atlantic University",
+        "SchoolLogo": "aca-sch-ag_23665_165764817610.png"
+    },
+    {
+        "Id": 20036,
+        "Name": "Paris Air",
+        "SchoolLogo": "aca-sch-ag_20036_15893807735.png"
+    },
+    {
+        "Id": 23924,
+        "Name": "Piedmont Virginia Community College",
+        "SchoolLogo": "aca-sch-ag_23924_16637762872.gif"
+    },
+    {
+        "Id": 22413,
+        "Name": "Pittsburg State University",
+        "SchoolLogo": "aca-sch-ag_0_16264446201.jpg"
+    },
+    {
+        "Id": 23001,
+        "Name": "Quinnipiac University ",
+        "SchoolLogo": "aca-sch-ag_0_16396724233.png"
+    },
+    {
+        "Id": 24428,
+        "Name": "Randolph College",
+        "SchoolLogo": "aca-sch-ag_24428_16730130449.png"
+    },
+    {
+        "Id": 23659,
+        "Name": "Robert Morris University",
+        "SchoolLogo": "aca-sch-ag_23659_16573097518.png"
+    },
+    {
+        "Id": 20075,
+        "Name": "Rocky Mountain College of Art + Design",
+        "SchoolLogo": "aca-sch-ag_0_15900738721.png"
+    },
+    {
+        "Id": 23655,
+        "Name": "Roosevelt University",
+        "SchoolLogo": "aca-sch-ag_23655_16572191588.png"
+    },
+    {
+        "Id": 23547,
+        "Name": "Rowan University",
+        "SchoolLogo": "aca-sch-ag_23547_16539708683.jpg"
+    },
+    {
+        "Id": 20128,
+        "Name": "Saint Louis University",
+        "SchoolLogo": "aca-sch-ag_0_15910392023.jpg"
+    },
+    {
+        "Id": 23923,
+        "Name": "Santa Monica College",
+        "SchoolLogo": "aca-sch-ag_23923_16637720352.jpg"
+    },
+    {
+        "Id": 22996,
+        "Name": "Simmons University",
+        "SchoolLogo": "aca-sch-ag_0_16395820813.png"
+    },
+    {
+        "Id": 23421,
+        "Name": "South Dakota State University",
+        "SchoolLogo": "aca-sch-ag_0_16475258020.jpg"
+    },
+    {
+        "Id": 23415,
+        "Name": "Southwestern University",
+        "SchoolLogo": "aca-sch-ag_23415_16474409001.png"
+    },
+    {
+        "Id": 23424,
+        "Name": "Spartan College",
+        "SchoolLogo": "aca-sch-ag_0_16475415887.png"
+    },
+    {
+        "Id": 23654,
+        "Name": "St. Thomas Aquinas College",
+        "SchoolLogo": "aca-sch-ag_23654_16572095338.png"
+    },
+    {
+        "Id": 20117,
+        "Name": "Suffolk University",
+        "SchoolLogo": "aca-sch-ag_0_15907763825.png"
+    },
+    {
+        "Id": 20171,
+        "Name": "Texas A&M University Corpus Christi",
+        "SchoolLogo": "aca-sch-ag_20171_15917274104.jpg"
+    },
+    {
+        "Id": 20172,
+        "Name": "Texas Wesleyan University",
+        "SchoolLogo": "aca-sch-ag_0_15917299223.png"
+    },
+    {
+        "Id": 20099,
+        "Name": "The University of Kansas",
+        "SchoolLogo": "aca-sch-ag_0_15906041731.png"
+    },
+    {
+        "Id": 22934,
+        "Name": "Thomas Jefferson University",
+        "SchoolLogo": "aca-sch-ag_0_16383763019.jpg"
+    },
+    {
+        "Id": 23269,
+        "Name": "Tiffin University",
+        "SchoolLogo": "aca-sch-ag_0_16442505095.png"
+    },
+    {
+        "Id": 23653,
+        "Name": "Towson University",
+        "SchoolLogo": "aca-sch-ag_23653_16572047014.jpg"
+    },
+    {
+        "Id": 23935,
+        "Name": "Trine University",
+        "SchoolLogo": "aca-sch-ag_23935_166395261310.jpg"
+    },
+    {
+        "Id": 23652,
+        "Name": "Tulane University",
+        "SchoolLogo": "aca-sch-ag_23652_16572034367.gif"
+    },
+    {
+        "Id": 23933,
+        "Name": "Tusculum University",
+        "SchoolLogo": "aca-sch-ag_23933_16639403623.png"
+    },
+    {
+        "Id": 20037,
+        "Name": "UCF",
+        "SchoolLogo": "aca-sch-ag_0_15893840839.jpg"
+    },
+    {
+        "Id": 23928,
+        "Name": "Umass Amherst",
+        "SchoolLogo": "aca-sch-ag_23928_16638596060.png"
+    },
+    {
+        "Id": 20045,
+        "Name": "University of Alabama Birmingham",
+        "SchoolLogo": "aca-sch-ag_0_15894853951.png"
+    },
+    {
+        "Id": 22419,
+        "Name": "University of Arizona",
+        "SchoolLogo": "aca-sch-ag_22419_16267135935.png"
+    },
+    {
+        "Id": 20076,
+        "Name": "University of Colorado Denver",
+        "SchoolLogo": "aca-sch-ag_0_15900839778.jpg"
+    },
+    {
+        "Id": 22981,
+        "Name": "University of Connecticut",
+        "SchoolLogo": "aca-sch-ag_0_16391589967.jpg"
+    },
+    {
+        "Id": 20165,
+        "Name": "University of Dayton",
+        "SchoolLogo": "aca-sch-ag_20165_159136943110.jpg"
+    },
+    {
+        "Id": 20088,
+        "Name": "University of Hartford",
+        "SchoolLogo": "aca-sch-ag_20088_15901644059.jpg"
+    },
+    {
+        "Id": 20097,
+        "Name": "University of Illinois at Chicago",
+        "SchoolLogo": "aca-sch-ag_0_15905892896.png"
+    },
+    {
+        "Id": 23650,
+        "Name": "University of Illinois Springfield",
+        "SchoolLogo": "aca-sch-ag_23650_16571364521.png"
+    },
+    {
+        "Id": 23644,
+        "Name": "University of Lynchburg",
+        "SchoolLogo": "aca-sch-ag_23644_16570473186.jpg"
+    },
+    {
+        "Id": 20126,
+        "Name": "University of Massachusetts Boston",
+        "SchoolLogo": "aca-sch-ag_20126_15910251046.jpg"
+    },
+    {
+        "Id": 20127,
+        "Name": "University of Mississippi",
+        "SchoolLogo": "aca-sch-ag_20127_15910373188.jpeg"
+    },
+    {
+        "Id": 20049,
+        "Name": "University of North Alabama",
+        "SchoolLogo": "aca-sch-ag_0_15898174936.png"
+    },
+    {
+        "Id": 24227,
+        "Name": "University of Oregon",
+        "SchoolLogo": "aca-sch-ag_0_166809341010.png"
+    },
+    {
+        "Id": 20167,
+        "Name": "University of South Carolina",
+        "SchoolLogo": "aca-sch-ag_20167_15916413451.jpg"
+    },
+    {
+        "Id": 20059,
+        "Name": "University of the Pacific",
+        "SchoolLogo": "aca-sch-ag_20059_15899174374.png"
+    },
+    {
+        "Id": 20175,
+        "Name": "University of Utah",
+        "SchoolLogo": "aca-sch-ag_0_15918047823.png"
+    },
+    {
+        "Id": 23668,
+        "Name": "Utah Tech University",
+        "SchoolLogo": "aca-sch-ag_23668_16578045800.jpg"
+    },
+    {
+        "Id": 23031,
+        "Name": "Valencia College",
+        "SchoolLogo": "aca-sch-ag_0_16397602730.jpg"
+    },
+    {
+        "Id": 23658,
+        "Name": "Washington & Jefferson College",
+        "SchoolLogo": "aca-sch-ag_23658_165729217710.png"
+    },
+    {
+        "Id": 23273,
+        "Name": "Washington State University",
+        "SchoolLogo": "aca-sch-ag_0_16443530724.png"
+    },
+    {
+        "Id": 23649,
+        "Name": "Wentworth Institute of Technology",
+        "SchoolLogo": "aca-sch-ag_23649_16571249804.png"
+    },
+    {
+        "Id": 20784,
+        "Name": "Westcliff University",
+        "SchoolLogo": "aca-sch-ag_0_16010518522.jpg"
+    },
+    {
+        "Id": 20065,
+        "Name": "Westcliff University",
+        "SchoolLogo": "aca-sch-ag_20065_15899883352.png"
+    },
+    {
+        "Id": 23666,
+        "Name": "Western Oregon University",
+        "SchoolLogo": "aca-sch-ag_23666_16577192031.jpg"
+    },
+    {
+        "Id": 20202,
+        "Name": "Western Washington University",
+        "SchoolLogo": "aca-sch-ag_20202_15922397627.png"
+    },
+    {
+        "Id": 23646,
+        "Name": "Wilson College",
+        "SchoolLogo": "aca-sch-ag_23646_16570515819.jpg"
+    },
+    {
+        "Id": 23243,
+        "Name": "Youngstown State University",
+        "SchoolLogo": "aca-sch-ag_23243_16436595245.jpg"
+    }
+]
